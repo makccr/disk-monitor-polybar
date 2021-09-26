@@ -5,9 +5,7 @@
 # Disk Monitor
 A simple polybar module that takes prints the percentage full on your boot drive (/). 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/makccr/disk-monitor-polybar/main/disk.jpg" alt="Preview of Module"/>
-</p>
+![Preview image of Module in action](https://raw.githubusercontent.com/makccr/disk-monitor-polybar/main/disk.jpg)
 
 ## Installation
 You need two pieces to get this module to work: 
